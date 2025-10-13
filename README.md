@@ -18,7 +18,8 @@ for the following paper by Guan and Yamamoto.
 ```
 
 ## Adaptive Neural PID Controller
-- Run Code: Use the file `rl_pid_setup1.py' and run.
+- Run Code: For python implementation, use the file `rl_pid_setup1.py' and run.
+- Run Code: For pytorch implementation, use 'rl_pid_setup2.py' and run.
 - Visualize the results below
 
 ### Python Implementation
