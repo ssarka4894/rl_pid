@@ -1,9 +1,9 @@
 # Reinforcement Learning Proportional Integral Derivative Controller
 
 This repository contains:
-- Two setups (python code with Pytorch Implementation, python code without Pytorch Implementation)
-- Obtained Results
-- Simulated implementation 
+- Two setups (python code with pure Numpy Implementation, python code with Pytorch Implementation)
+- Obtained control, weights, TD error and Value Function showcased
+- Simulated implementation exemplified
 
 for the following paper by Guan and Yamamoto.
 ```bibtex
@@ -18,11 +18,11 @@ for the following paper by Guan and Yamamoto.
 ```
 
 ## Adaptive Neural PID Controller
-- Run Code: For python implementation, use the file `rl_pid_setup1.py' and run.
+- Run Code: For pure numpy implementation, use the file `rl_pid_setup1.py' and run.
 - Run Code: For pytorch implementation, use 'rl_pid_setup2.py' and run.
 - Visualize the results below
 
-### Python Implementation
+### Numpy Implementation
 <img src= "img/Figure_1_setup1.png" alt="step" width="405"> <img src= "img/Figure_2_setup1.png" alt="step" width="405">
 
 <img src= "img/Figure_3_setup1.png" alt="step" width="405"> <img src= "img/Figure_4_setup1.png" alt="step" width="405">
