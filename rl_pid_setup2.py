@@ -190,6 +190,7 @@ for t in tqdm(range(T)):
 # ------------------------------------------------------------
 # Plot results
 # ------------------------------------------------------------
+t_arr = np.arange(len(y_hist))
 plt.figure(figsize=(12,6))
 plt.plot(y_hist, 'k', label='Output y')
 plt.plot(yd_hist, 'r--', label='Desired yd')
