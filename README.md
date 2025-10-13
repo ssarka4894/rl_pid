@@ -22,13 +22,13 @@ for the following paper by Guan and Yamamoto.
 - Visualize the results below
 
 ### Python Implementation
-<img src= "img/Figure_1_setup1.png" alt="step" width="500"> <img src= "img/Figure_2_setup1.png" alt="step" width="500">
+<img src= "img/Figure_1_setup1.png" alt="step" width="255"> <img src= "img/Figure_2_setup1.png" alt="step" width="255">
 
-i<img src= "img/Figure_3_setup1.png", alt="step" width="500"><img src= "img/Figure_4_setup1.png", alt="step" width="500">
+<img src= "img/Figure_3_setup1.png" alt="step" width="255"><img src= "img/Figure_4_setup1.png" alt="step" width="255">
 
 
 ### Pytorch Implementation
-<img src= "img/Figure_1_setup2.png", alt="step" width="500"><img src= "img/Figure_2_setup2.png", alt="step" width="500">
+<img src= "img/Figure_1_setup2.png" alt="step" width="255"><img src= "img/Figure_2_setup2.png" alt="step" width="255">
 
-<img src= "img/Figure_3_setup2.png", alt="step" width="500"><img src= "img/Figure_4_setup2.png", alt="step" width="500">
+<img src= "img/Figure_3_setup2.png" alt="step" width="255"><img src= "img/Figure_4_setup2.png" alt="step" width="255">
 
